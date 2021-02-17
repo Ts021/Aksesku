@@ -1,2 +1,0 @@
-# Aksesku
-ini webku
